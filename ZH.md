@@ -10,3 +10,9 @@
   a **git clone --depth <depth>**
   b git clone --shallow-since=<date>
   c git clone <repo>
+4 DevOps is a common and continuous∞ effort to build better SDLC delivering better software in less time.
+  a **true**
+  b false
+5 git config : Manages repository and global options
+  a **true**
+  b false
